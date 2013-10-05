@@ -13,4 +13,4 @@ The tool and language used are...
 - SQL*Plus
 - Java and Swing
 
-The data is not available, only browsing code.
+The data is not available.
